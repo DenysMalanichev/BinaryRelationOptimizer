@@ -1,0 +1,14 @@
+D:\KPI 4 course\TPR\лаб2\OptimizationCalc\bin\Debug\net8.0\OptimizationCalc.exe
+D:\KPI 4 course\TPR\лаб2\OptimizationCalc\bin\Debug\net8.0\OptimizationCalc.deps.json
+D:\KPI 4 course\TPR\лаб2\OptimizationCalc\bin\Debug\net8.0\OptimizationCalc.runtimeconfig.json
+D:\KPI 4 course\TPR\лаб2\OptimizationCalc\bin\Debug\net8.0\OptimizationCalc.dll
+D:\KPI 4 course\TPR\лаб2\OptimizationCalc\bin\Debug\net8.0\OptimizationCalc.pdb
+D:\KPI 4 course\TPR\лаб2\OptimizationCalc\obj\Debug\net8.0\OptimizationCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPI 4 course\TPR\лаб2\OptimizationCalc\obj\Debug\net8.0\OptimizationCalc.AssemblyInfoInputs.cache
+D:\KPI 4 course\TPR\лаб2\OptimizationCalc\obj\Debug\net8.0\OptimizationCalc.AssemblyInfo.cs
+D:\KPI 4 course\TPR\лаб2\OptimizationCalc\obj\Debug\net8.0\OptimizationCalc.csproj.CoreCompileInputs.cache
+D:\KPI 4 course\TPR\лаб2\OptimizationCalc\obj\Debug\net8.0\OptimizationCalc.dll
+D:\KPI 4 course\TPR\лаб2\OptimizationCalc\obj\Debug\net8.0\refint\OptimizationCalc.dll
+D:\KPI 4 course\TPR\лаб2\OptimizationCalc\obj\Debug\net8.0\OptimizationCalc.pdb
+D:\KPI 4 course\TPR\лаб2\OptimizationCalc\obj\Debug\net8.0\OptimizationCalc.genruntimeconfig.cache
+D:\KPI 4 course\TPR\лаб2\OptimizationCalc\obj\Debug\net8.0\ref\OptimizationCalc.dll
